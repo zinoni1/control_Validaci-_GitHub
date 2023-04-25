@@ -1,3 +1,5 @@
 Edat: 18
 Nom : Zenon
 Curs: DAM1
+
+Eines: Portatil, examen, ratolí...
